@@ -1,0 +1,1 @@
+__authors__ = "Barbara Morawska, Krzysztof Barden, Krzysztof Wierzbicki "
