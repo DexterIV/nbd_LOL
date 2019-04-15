@@ -10,3 +10,7 @@
 
 *  build with "docker build -t docker_flask:latest ."
 * run with "docker run -p 9043:9043 -- net localnet docker_flask"
+
+# OR
+chmod +x run.sh
+./run.sh
